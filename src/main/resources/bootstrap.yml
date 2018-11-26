@@ -1,2 +1,7 @@
+spring:
+  application:
+    name: config-services
+  profiles:
+    active: native
 server:
   port: 8088
